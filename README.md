@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aleah White!!
-- 👀 I’m interested in web developement, defi, tv/movies and gaming!
-- 🌱 I’m currently learning how to become a web dev!
-- 💞️ I’m looking to learn new info to build my skills!
+- 👀 I’m interested in web developement, defi, nature, tv/movies and gaming!
+- 🌱 I’m currently learning the skills needed to become a full-stack web developer!
+- 💞️ I’m new to the space and looking to build my skills!
 - 📫 How to reach me? via email aleahwhite55@gmail.com
   
 <!---
